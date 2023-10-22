@@ -1,5 +1,5 @@
 <h1 align="center"><b>Rumah Jasa</b></h1>
-Company Profile of Rumah Jasa Company
+Website Profile of Rumah Jasa Company
 
 ## Information
 ```yaml
